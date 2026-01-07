@@ -1,0 +1,4 @@
+PATIENTS LIST:
+
+0. Name:j==>Login:j==>Register:j==>Password:j==>Room No:0==>Admit Date:j==>Decies:j==>Total Amount:0
+0. Name:j==>Login:j==>Register:j==>Password:j==>Room No:1==>Admit Date:j==>Decies:j==>Total Amount:100
